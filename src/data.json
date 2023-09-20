@@ -1,0 +1,50 @@
+[
+  {
+    "desc": "100% Pino",
+    "id": "P001",
+    "img": "/src/assets/img/sillas.png",
+    "materials": ["pino", "smalte"],
+    "name": "sillas",
+    "price": 30000
+  },
+  {
+    "desc": "100% Pino",
+    "id": "P002",
+    "img": "/src/assets/img/mesa.png",
+    "materials": ["pino", "smalte"],
+    "name": "Mesa",
+    "price": 30000
+  },
+  {
+    "desc": "100% Pino",
+    "id": "P003",
+    "img": "/src/assets/img/mueble1.png",
+    "materials": ["pino", "smalte"],
+    "name": "Mueble a medida",
+    "price": 30000
+  },
+  {
+    "desc": "100% Pino",
+    "id": "P004",
+    "img": "/src/assets/img/taburetes.png",
+    "materials": ["pino", "smalte"],
+    "name": "Taburetes",
+    "price": 30000
+  },
+  {
+    "desc": "100% Pino",
+    "id": "P005",
+    "img": "/src/assets/img/verdurera.png",
+    "materials": ["pino", "smalte"],
+    "name": "Verdurera",
+    "price": 30000
+  },
+  {
+    "desc": "100% Pino",
+    "id": "P006",
+    "img": "/src/assets/img/muebleVintagge.png",
+    "materials": ["pino", "smalte"],
+    "name": "mueble Vintagge",
+    "price": 30000
+  }
+]
